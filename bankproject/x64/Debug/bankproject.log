@@ -1,0 +1,66 @@
+﻿  Main.cpp
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsUtil.h(63,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+  C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsUser.h(26,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(192,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+  C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(141,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(26,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(151,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(152,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(153,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(413,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(425,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsTransferScreen.h(48,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsTransferScreen.h(48,58): warning C4244:         with
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsTransferScreen.h(48,58): warning C4244:         [
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsTransferScreen.h(48,58): warning C4244:             T=double
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsTransferScreen.h(48,58): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsTotalBalancesScreen.h(56,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsCurrency.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsBankClient.h(357): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+  bankproject.vcxproj -> C:\Users\Victus\OneDrive\Desktop\projectbank\bankproject\x64\Debug\bankproject.exe
